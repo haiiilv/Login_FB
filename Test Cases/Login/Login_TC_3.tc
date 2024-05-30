@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan password salah</description>
+   <name>Login_TC_3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9639987-7e49-4b4b-9182-41bdf17c74cc</testCaseGuid>
+</TestCaseEntity>

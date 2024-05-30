@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan email dan password benar</description>
+   <name>Login_TC_1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9471437-bb34-4c44-a9ac-54207c54372a</testCaseGuid>
+</TestCaseEntity>

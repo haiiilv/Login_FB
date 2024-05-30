@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login field kosong</description>
+   <name>Login_TC_4</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7743c4c-9910-4284-85cc-c49600f09d8f</testCaseGuid>
+</TestCaseEntity>
